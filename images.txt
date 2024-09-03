@@ -1,1 +1,1 @@
-anapsix/alpine-java:8_server-jre_unlimited
+emqx/emqx-enterprise:5.8.0
