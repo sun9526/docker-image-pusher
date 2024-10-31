@@ -1,1 +1,1 @@
-tomcat:8.5.32
+centos:7
