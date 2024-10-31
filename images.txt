@@ -1,1 +1,1 @@
-emqx/emqx-enterprise:5.8.0
+redis:6.2
