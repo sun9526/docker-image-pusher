@@ -1,1 +1,1 @@
-centos:7
+openjdk:8u102
