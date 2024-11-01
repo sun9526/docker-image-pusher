@@ -1,1 +1,1 @@
-openjdk:8u102
+mysql:5.7
